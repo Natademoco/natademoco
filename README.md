@@ -1,7 +1,5 @@
 <div align="center">
 
-<h1>🐍 HELLO, WORLD!</h1>
-
 <img
   src="https://raw.githubusercontent.com/natademoco/natademoco/gh-pages/github-contribution-grid-snake.svg"
   alt="GitHub contribution snake"
