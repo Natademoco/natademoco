@@ -1,8 +1,14 @@
 <div align="center">
 
-<h1>
+<!-- <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Welcome+to+my+profile;Code.+Create.+Repeat." alt="Typing animation">
-</h1>
+</h1> -->
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake"
+/>
+
 
 </div>
 
