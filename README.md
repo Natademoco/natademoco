@@ -1,10 +1,9 @@
 <div align="center">
 
 <img
-  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-  width="400"
-  alt="Coding animation"
-/>
+  src="https://raw.githubusercontent.com/natademoco/natademoco/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake"
+>
 
 </div>
 
