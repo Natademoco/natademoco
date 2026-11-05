@@ -1,18 +1,15 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════╗
-║      H E L L O   W O R L D !        ║
-╚══════════════════════════════════════╝
-```
+<h1>👋 HELLO, WORLD!</h1>
 
-```text
-$ whoami
-> developer
+<p>
+  <strong>Welcome to my corner of GitHub</strong><br>
+  Building ideas, solving problems, and turning coffee into code.
+</p>
 
-$ echo "building ideas with code..."
-> ████████████████████ 100%
-```
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Welcome+to+my+profile;Code.+Create.+Repeat." alt="Typing animation">
+</p>
 
 </div>
 
