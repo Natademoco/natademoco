@@ -1,11 +1,19 @@
 <div align="center">
 
+<h1>🐍 HELLO, WORLD!</h1>
+
+<p>
+  Welcome to my GitHub profile
+</p>
+
 <img
   src="https://raw.githubusercontent.com/natademoco/natademoco/output/github-contribution-grid-snake.svg"
   alt="GitHub contribution snake"
->
+/>
 
 </div>
+
+## Tech Stack
 
 ### Languages
 
